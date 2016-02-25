@@ -1,0 +1,589 @@
+MAHARASHTRA|AKOLA|Adgaon Kh|Single Delivery Post office
+MAHARASHTRA|AKOLA|Akola|1600 Plot Nehru Nagar
+MAHARASHTRA|AKOLA|Akola|Adarsha Colony
+MAHARASHTRA|AKOLA|Akola|Adarsha vidhayalay
+MAHARASHTRA|AKOLA|Akola|Agarves
+MAHARASHTRA|AKOLA|Akola|Agrsen nagar
+MAHARASHTRA|AKOLA|Akola|Agrwal Plots Dabki Road
+MAHARASHTRA|AKOLA|Akola|Ajmera & co
+MAHARASHTRA|AKOLA|Akola|Akashwani
+MAHARASHTRA|AKOLA|Akola|Akbar Plot
+MAHARASHTRA|AKOLA|Akola|Akkalkot
+MAHARASHTRA|AKOLA|Akola|Akola Eye Hospital
+MAHARASHTRA|AKOLA|Akola|Akola Head Post Office
+MAHARASHTRA|AKOLA|Akola|Alankar Market Tilak Road
+MAHARASHTRA|AKOLA|Akola|Alashi Plot
+MAHARASHTRA|AKOLA|Akola|Alshi Plot No.1
+MAHARASHTRA|AKOLA|Akola|Alsi Complex
+MAHARASHTRA|AKOLA|Akola|Amankha Plot
+MAHARASHTRA|AKOLA|Akola|Amankha Plot
+MAHARASHTRA|AKOLA|Akola|Amarprit colony Dabki Road
+MAHARASHTRA|AKOLA|Akola|Ambedkar chouk
+MAHARASHTRA|AKOLA|Akola|Ambedkar Nagar bus stand road
+MAHARASHTRA|AKOLA|Akola|Ambedkar nagar Jatharpeth
+MAHARASHTRA|AKOLA|Akola|Ambika Nagar
+MAHARASHTRA|AKOLA|Akola|Ambika Nagar
+MAHARASHTRA|AKOLA|Akola|Ambika nagar malkapur rd
+MAHARASHTRA|AKOLA|Akola|Amrutwadi
+MAHARASHTRA|AKOLA|Akola|Anand colony
+MAHARASHTRA|AKOLA|Akola|Anand nagar
+MAHARASHTRA|AKOLA|Akola|Anant nagar
+MAHARASHTRA|AKOLA|Akola|Anes Sintek School
+MAHARASHTRA|AKOLA|Akola|Anikat police line Anikat
+MAHARASHTRA|AKOLA|Akola|Ansar colony
+MAHARASHTRA|AKOLA|Akola|Archies Gallary
+MAHARASHTRA|AKOLA|Akola|Arogya nagar
+MAHARASHTRA|AKOLA|Akola|Arybhatta Colony
+MAHARASHTRA|AKOLA|Akola|Asara colony
+MAHARASHTRA|AKOLA|Akola|Asha Nagar
+MAHARASHTRA|AKOLA|Akola|Ashivini layout
+MAHARASHTRA|AKOLA|Akola|Ashok Ambedkar Nagar
+MAHARASHTRA|AKOLA|Akola|Ashok Vatika bus stand road
+MAHARASHTRA|AKOLA|Akola|Ayurvedik Rungnalay Station Road
+MAHARASHTRA|AKOLA|Akola|Azad Colony
+MAHARASHTRA|AKOLA|Akola|Azad Park Road
+MAHARASHTRA|AKOLA|Akola|Badar colony
+MAHARASHTRA|AKOLA|Akola|Bagat Wadi Dabki Road
+MAHARASHTRA|AKOLA|Akola|Bajarang Chouk
+MAHARASHTRA|AKOLA|Akola|Bajoria layout
+MAHARASHTRA|AKOLA|Akola|Balapur naka
+MAHARASHTRA|AKOLA|Akola|Balapur naka
+MAHARASHTRA|AKOLA|Akola|Balapur road
+MAHARASHTRA|AKOLA|Akola|Balode out
+MAHARASHTRA|AKOLA|Akola|Balwant nagar
+MAHARASHTRA|AKOLA|Akola|Banjara nagar
+MAHARASHTRA|AKOLA|Akola|Bapu Nagar
+MAHARASHTRA|AKOLA|Akola|Bara Jotirling Mandir Ranpise nagar
+MAHARASHTRA|AKOLA|Akola|Basam Stand
+MAHARASHTRA|AKOLA|Akola|Basera colony
+MAHARASHTRA|AKOLA|Akola|Bhagirathwadi
+MAHARASHTRA|AKOLA|Akola|Bhagwat wadi
+MAHARASHTRA|AKOLA|Akola|Bhandpura Chowki
+MAHARASHTRA|AKOLA|Akola|Bhani Bazar Shivaji Nagar
+MAHARASHTRA|AKOLA|Akola|Bharti Plot
+MAHARASHTRA|AKOLA|Akola|Bhate Club Ghandi Road
+MAHARASHTRA|AKOLA|Akola|Bhaulal Chal
+MAHARASHTRA|AKOLA|Akola|Bhavasar Panch Bangala
+MAHARASHTRA|AKOLA|Akola|Bhawani Nagar Dabki Road
+MAHARASHTRA|AKOLA|Akola|Bhikamchan Khandelwal Vidyalaya
+MAHARASHTRA|AKOLA|Akola|Bhim Nagar Dabki Road
+MAHARASHTRA|AKOLA|Akola|Bhirad Mangal Karyalaya
+MAHARASHTRA|AKOLA|Akola|Bhoipura
+MAHARASHTRA|AKOLA|Akola|Birla colony Jatharpeth
+MAHARASHTRA|AKOLA|Akola|Birla gate no-1
+MAHARASHTRA|AKOLA|Akola|Birla Ram Mandir Jatharpeth
+MAHARASHTRA|AKOLA|Akola|Bombey Lodge Gandhi Road
+MAHARASHTRA|AKOLA|Akola|Central Jail
+MAHARASHTRA|AKOLA|Akola|Chahacha Karkhana
+MAHARASHTRA|AKOLA|Akola|Chand Khan Plots
+MAHARASHTRA|AKOLA|Akola|Chandekar Bhawan Gandhi Road
+MAHARASHTRA|AKOLA|Akola|Chatinwadi
+MAHARASHTRA|AKOLA|Akola|Chatinya colony
+MAHARASHTRA|AKOLA|Akola|Chaturbhuj Colony
+MAHARASHTRA|AKOLA|Akola|Child Devp Office Civil line
+MAHARASHTRA|AKOLA|Akola|Choudhari Hospital Civil Line
+MAHARASHTRA|AKOLA|Akola|Choure Plot
+MAHARASHTRA|AKOLA|Akola|Chrishan Colony
+MAHARASHTRA|AKOLA|Akola|Circuit House Station Road
+MAHARASHTRA|AKOLA|Akola|City Kotwali Police Station
+MAHARASHTRA|AKOLA|Akola|Civil Line Police Station
+MAHARASHTRA|AKOLA|Akola|Collector office
+MAHARASHTRA|AKOLA|Akola|College of Agri. PKV
+MAHARASHTRA|AKOLA|Akola|Congress nagar
+MAHARASHTRA|AKOLA|Akola|Court Colony Behind Ashray Nagar Dabki Road
+MAHARASHTRA|AKOLA|Akola|D.R. Patil college Sahkar nagar
+MAHARASHTRA|AKOLA|Akola|Dabki road
+MAHARASHTRA|AKOLA|Akola|Dahihanda Bes
+MAHARASHTRA|AKOLA|Akola|Damale Wadi
+MAHARASHTRA|AKOLA|Akola|Dana Bazar
+MAHARASHTRA|AKOLA|Akola|Dashera Nagar
+MAHARASHTRA|AKOLA|Akola|Datt colony
+MAHARASHTRA|AKOLA|Akola|Datta Marg
+MAHARASHTRA|AKOLA|Akola|Dawa Bazar Tower road
+MAHARASHTRA|AKOLA|Akola|Dawale Tractors Murtizapur Road
+MAHARASHTRA|AKOLA|Akola|Deepak chowk
+MAHARASHTRA|AKOLA|Akola|Deoraobaba Chal
+MAHARASHTRA|AKOLA|Akola|Deshmukh Fail Plot
+MAHARASHTRA|AKOLA|Akola|Deshonnati press
+MAHARASHTRA|AKOLA|Akola|Deshpande Plots
+MAHARASHTRA|AKOLA|Akola|Devi Khadan
+MAHARASHTRA|AKOLA|Akola|Devi Plaza
+MAHARASHTRA|AKOLA|Akola|Devi Police Line
+MAHARASHTRA|AKOLA|Akola|Dhabekar Farm
+MAHARASHTRA|AKOLA|Akola|Dnyaneshwar Nagar Dabki Road
+MAHARASHTRA|AKOLA|Akola|DSP office
+MAHARASHTRA|AKOLA|Akola|Dube Wadi
+MAHARASHTRA|AKOLA|Akola|Durga Chouk
+MAHARASHTRA|AKOLA|Akola|Durga chowk
+MAHARASHTRA|AKOLA|Akola|Durga chowk
+MAHARASHTRA|AKOLA|Akola|Dwarka nagari
+MAHARASHTRA|AKOLA|Akola|Dwarkanagar Jatharpeth
+MAHARASHTRA|AKOLA|Akola|Dy collector Bangla
+MAHARASHTRA|AKOLA|Akola|Ekta nagar
+MAHARASHTRA|AKOLA|Akola|Emralld School
+MAHARASHTRA|AKOLA|Akola|Fadke Nagar Dabki Road
+MAHARASHTRA|AKOLA|Akola|Fateh Chowk
+MAHARASHTRA|AKOLA|Akola|Firdos colony
+MAHARASHTRA|AKOLA|Akola|Fire Brigade Office
+MAHARASHTRA|AKOLA|Akola|Forest Colony
+MAHARASHTRA|AKOLA|Akola|Fulari Galli
+MAHARASHTRA|AKOLA|Akola|Gaddam plot
+MAHARASHTRA|AKOLA|Akola|Gadge Nagar
+MAHARASHTRA|AKOLA|Akola|Gajanan Nagar Dabki Road
+MAHARASHTRA|AKOLA|Akola|Gajanan vihar jatharpeth
+MAHARASHTRA|AKOLA|Akola|Gandhinagar
+MAHARASHTRA|AKOLA|Akola|Ganesh Ghat
+MAHARASHTRA|AKOLA|Akola|Ganesh nagar
+MAHARASHTRA|AKOLA|Akola|Ganesh Nagar Dabki Road
+MAHARASHTRA|AKOLA|Akola|Ganga Nagar
+MAHARASHTRA|AKOLA|Akola|Gautam Nagar
+MAHARASHTRA|AKOLA|Akola|Gautam nagar shivni
+MAHARASHTRA|AKOLA|Akola|Gawalipura
+MAHARASHTRA|AKOLA|Akola|Gawati Bangla
+MAHARASHTRA|AKOLA|Akola|Gaytri Nagar
+MAHARASHTRA|AKOLA|Akola|Geeta Nagar
+MAHARASHTRA|AKOLA|Akola|Geetadevi Khandelwal Collage Dabki Road
+MAHARASHTRA|AKOLA|Akola|Geetai Apartment Godbole plot
+MAHARASHTRA|AKOLA|Akola|Giri nagar RTO road
+MAHARASHTRA|AKOLA|Akola|Gitanjali Auto Stop chouk
+MAHARASHTRA|AKOLA|Akola|GMD Market
+MAHARASHTRA|AKOLA|Akola|Goarkshan Sanstha
+MAHARASHTRA|AKOLA|Akola|Godbole Plot Dabki Road
+MAHARASHTRA|AKOLA|Akola|Goenka Complex
+MAHARASHTRA|AKOLA|Akola|Goenka layout nr Agarsen Bhawan
+MAHARASHTRA|AKOLA|Akola|Goenka Nagar
+MAHARASHTRA|AKOLA|Akola|Gokul Colony
+MAHARASHTRA|AKOLA|Akola|Gopal Kirana
+MAHARASHTRA|AKOLA|Akola|Gore Appt No-3,6,5,12
+MAHARASHTRA|AKOLA|Akola|Gorewadi
+MAHARASHTRA|AKOLA|Akola|Govt Dairy
+MAHARASHTRA|AKOLA|Akola|Govt Girls Hostel
+MAHARASHTRA|AKOLA|Akola|Gudripura
+MAHARASHTRA|AKOLA|Akola|Gujrathi hotel Ratanlal plot road
+MAHARASHTRA|AKOLA|Akola|Guljarpura
+MAHARASHTRA|AKOLA|Akola|Gupte road
+MAHARASHTRA|AKOLA|Akola|Gursunanak Vidhalay
+MAHARASHTRA|AKOLA|Akola|Gurudeo Nagar Dabki Road
+MAHARASHTRA|AKOLA|Akola|Gurudev Nagar
+MAHARASHTRA|AKOLA|Akola|Gurukul
+MAHARASHTRA|AKOLA|Akola|Gurunanak Society
+MAHARASHTRA|AKOLA|Akola|Habib Nagar
+MAHARASHTRA|AKOLA|Akola|Haji Nagar
+MAHARASHTRA|AKOLA|Akola|Hamma Plots
+MAHARASHTRA|AKOLA|Akola|Hanuman Akhada
+MAHARASHTRA|AKOLA|Akola|Hardasram nagar
+MAHARASHTRA|AKOLA|Akola|Hareram Society
+MAHARASHTRA|AKOLA|Akola|Hariharpeth
+MAHARASHTRA|AKOLA|Akola|Harish colony
+MAHARASHTRA|AKOLA|Akola|Harsha Sankul Civil line
+MAHARASHTRA|AKOLA|Akola|Himayuh Road
+MAHARASHTRA|AKOLA|Akola|Hindu gyanpith school Adarsha colony
+MAHARASHTRA|AKOLA|Akola|Holi cross convent
+MAHARASHTRA|AKOLA|Akola|Hotel Rajeshwari Rukhmini Nagar
+MAHARASHTRA|AKOLA|Akola|Husainiya Madarsa
+MAHARASHTRA|AKOLA|Akola|Hutama Smarak Nehru Park Chouk
+MAHARASHTRA|AKOLA|Akola|Hyderabad Garage
+MAHARASHTRA|AKOLA|Akola|Icon Hospital
+MAHARASHTRA|AKOLA|Akola|Indira Colony Dabki Road
+MAHARASHTRA|AKOLA|Akola|Indira Nagar
+MAHARASHTRA|AKOLA|Akola|Indra Nagar
+MAHARASHTRA|AKOLA|Akola|Indraprastha appt
+MAHARASHTRA|AKOLA|Akola|Indraprastha Tower
+MAHARASHTRA|AKOLA|Akola|Iqbal colony
+MAHARASHTRA|AKOLA|Akola|Isalmpura
+MAHARASHTRA|AKOLA|Akola|Islam chouk
+MAHARASHTRA|AKOLA|Akola|ITI (girls)
+MAHARASHTRA|AKOLA|Akola|ITI college
+MAHARASHTRA|AKOLA|Akola|ITI colony
+MAHARASHTRA|AKOLA|Akola|Jagruti Vidhalay Ranpise nagar
+MAHARASHTRA|AKOLA|Akola|Jaimataji Chowk Dabki Road Godbole plot
+MAHARASHTRA|AKOLA|Akola|jain Chembers
+MAHARASHTRA|AKOLA|Akola|Jain lawns sangani colony
+MAHARASHTRA|AKOLA|Akola|Jain Mandir
+MAHARASHTRA|AKOLA|Akola|Jain Mandir
+MAHARASHTRA|AKOLA|Akola|Jairmasingh plots
+MAHARASHTRA|AKOLA|Akola|Jakat naka centre murtizapur road
+MAHARASHTRA|AKOLA|Akola|Jalaram Colony
+MAHARASHTRA|AKOLA|Akola|Janta Bazar
+MAHARASHTRA|AKOLA|Akola|Jawahar nagar
+MAHARASHTRA|AKOLA|Akola|Jayhind Chowk
+MAHARASHTRA|AKOLA|Akola|Jetwan nagar Dhobi khadan
+MAHARASHTRA|AKOLA|Akola|Joglekar Plot
+MAHARASHTRA|AKOLA|Akola|Joshi Market Tower Road
+MAHARASHTRA|AKOLA|Akola|Joyti Vidhalay
+MAHARASHTRA|AKOLA|Akola|Juna Bhaji Bazar
+MAHARASHTRA|AKOLA|Akola|Juna dhor bhazar
+MAHARASHTRA|AKOLA|Akola|Juna Kapad Bazar
+MAHARASHTRA|AKOLA|Akola|Jyotinagar
+MAHARASHTRA|AKOLA|Akola|K.M. Asgar Hussain college
+MAHARASHTRA|AKOLA|Akola|Kacchi Kholi
+MAHARASHTRA|AKOLA|Akola|Kailas tekadi khadan
+MAHARASHTRA|AKOLA|Akola|Kailash nagar
+MAHARASHTRA|AKOLA|Akola|Kala Chabutara
+MAHARASHTRA|AKOLA|Akola|Kala Maruti road
+MAHARASHTRA|AKOLA|Akola|kalal ki chawl dipak chowk
+MAHARASHTRA|AKOLA|Akola|Kalyanwadi
+MAHARASHTRA|AKOLA|Akola|kama plot
+MAHARASHTRA|AKOLA|Akola|Kamal Housing Society
+MAHARASHTRA|AKOLA|Akola|Kamgar Kalyan Kendra Ambedkar Chowk Dabki Road
+MAHARASHTRA|AKOLA|Akola|Kamla jaju nagar
+MAHARASHTRA|AKOLA|Akola|Kamla Nehru Nagar
+MAHARASHTRA|AKOLA|Akola|Kamla Nehru Nagar
+MAHARASHTRA|AKOLA|Akola|Kandelwal Honda Showroom
+MAHARASHTRA|AKOLA|Akola|Kandelwal nagar
+MAHARASHTRA|AKOLA|Akola|Kapila nagar
+MAHARASHTRA|AKOLA|Akola|Kapilvastu nagar
+MAHARASHTRA|AKOLA|Akola|Kaplvsti nagar Shivni
+MAHARASHTRA|AKOLA|Akola|Kaulkhed
+MAHARASHTRA|AKOLA|Akola|kaulkhed post office
+MAHARASHTRA|AKOLA|Akola|Kavar nagar
+MAHARASHTRA|AKOLA|Akola|Kawade nagar
+MAHARASHTRA|AKOLA|Akola|Kediya Plot
+MAHARASHTRA|AKOLA|Akola|Kela plot
+MAHARASHTRA|AKOLA|Akola|Kelkar Hospital Ramdas peth
+MAHARASHTRA|AKOLA|Akola|Keshav nagar
+MAHARASHTRA|AKOLA|Akola|Khadan
+MAHARASHTRA|AKOLA|Akola|Khair Mohmmed Plot
+MAHARASHTRA|AKOLA|Akola|Khancourt office mahsul colony
+MAHARASHTRA|AKOLA|Akola|Khandelwal Bhawan Nehru Park Chowk
+MAHARASHTRA|AKOLA|Akola|Khandelwal Bhawan Ratnlal plot chok
+MAHARASHTRA|AKOLA|Akola|Khandelwal Colony
+MAHARASHTRA|AKOLA|Akola|Khandelwal loans adarsha colony
+MAHARASHTRA|AKOLA|Akola|khangar pura
+MAHARASHTRA|AKOLA|Akola|Kharap Pach. Pimpal
+MAHARASHTRA|AKOLA|Akola|Khelkar Nagar
+MAHARASHTRA|AKOLA|Akola|Khemka Appt
+MAHARASHTRA|AKOLA|Akola|Khetan nagar New
+MAHARASHTRA|AKOLA|Akola|Khetan nagar Old
+MAHARASHTRA|AKOLA|Akola|Kholeshwar
+MAHARASHTRA|AKOLA|Akola|Kholeswar
+MAHARASHTRA|AKOLA|Akola|Killa Chowk
+MAHARASHTRA|AKOLA|Akola|Kirana market
+MAHARASHTRA|AKOLA|Akola|Kondabai chi chal
+MAHARASHTRA|AKOLA|Akola|kothari Complex
+MAHARASHTRA|AKOLA|Akola|Kothari vatika no-1,2,3
+MAHARASHTRA|AKOLA|Akola|Krantinagar shivni
+MAHARASHTRA|AKOLA|Akola|Krushna nagari
+MAHARASHTRA|AKOLA|Akola|Kunal Complex
+MAHARASHTRA|AKOLA|Akola|Labour Colony
+MAHARASHTRA|AKOLA|Akola|Ladies Fail
+MAHARASHTRA|AKOLA|Akola|Lady Harding
+MAHARASHTRA|AKOLA|Akola|Lahriya Compound
+MAHARASHTRA|AKOLA|Akola|Lahriya nagar
+MAHARASHTRA|AKOLA|Akola|Lakkadganj
+MAHARASHTRA|AKOLA|Akola|Lal Banglow Baidpura
+MAHARASHTRA|AKOLA|Akola|Lal Bawata Building
+MAHARASHTRA|AKOLA|Akola|Laxmi Nagar
+MAHARASHTRA|AKOLA|Akola|Laxmi Nagar Dabki Road
+MAHARASHTRA|AKOLA|Akola|LIC office no-2
+MAHARASHTRA|AKOLA|Akola|Lokmana Nagar
+MAHARASHTRA|AKOLA|Akola|LRT College
+MAHARASHTRA|AKOLA|Akola|luxary Bus Stand Anikat
+MAHARASHTRA|AKOLA|Akola|M.G. Road Gandhi Road
+MAHARASHTRA|AKOLA|Akola|Madhao nagar
+MAHARASHTRA|AKOLA|Akola|Mahabeej office H-way No-6
+MAHARASHTRA|AKOLA|Akola|Mahakali Nagar
+MAHARASHTRA|AKOLA|Akola|Mahanagaralika Office Gandhi road
+MAHARASHTRA|AKOLA|Akola|Mahatma fule nagar
+MAHARASHTRA|AKOLA|Akola|Mahsul Colony
+MAHARASHTRA|AKOLA|Akola|Main Hospital Collector Raod
+MAHARASHTRA|AKOLA|Akola|Makka Majid
+MAHARASHTRA|AKOLA|Akola|Maleriya colony
+MAHARASHTRA|AKOLA|Akola|Mangalwara
+MAHARASHTRA|AKOLA|Akola|Mangilal vidyalaya Wankhede Nagar Dabki Road
+MAHARASHTRA|AKOLA|Akola|Mankar Complex Civil line
+MAHARASHTRA|AKOLA|Akola|Mankarna Plot
+MAHARASHTRA|AKOLA|Akola|Manujapar
+MAHARASHTRA|AKOLA|Akola|Marwadi press
+MAHARASHTRA|AKOLA|Akola|Master Power jim Dabki Road
+MAHARASHTRA|AKOLA|Akola|mata nagar
+MAHARASHTRA|AKOLA|Akola|Matrubhumi paper Adharsh colony
+MAHARASHTRA|AKOLA|Akola|meman colony
+MAHARASHTRA|AKOLA|Akola|MHADA Colony
+MAHARASHTRA|AKOLA|Akola|MIDC 2 MIDC
+MAHARASHTRA|AKOLA|Akola|MIDC 3
+MAHARASHTRA|AKOLA|Akola|MIDC 4
+MAHARASHTRA|AKOLA|Akola|MIDC 5
+MAHARASHTRA|AKOLA|Akola|MIDC 6
+MAHARASHTRA|AKOLA|Akola|Milan Nagar Plot
+MAHARASHTRA|AKOLA|Akola|Mitra nagar
+MAHARASHTRA|AKOLA|Akola|Mitrashakti colony ring road
+MAHARASHTRA|AKOLA|Akola|Mohan Bhaji Bhandar tapdiya nagar
+MAHARASHTRA|AKOLA|Akola|Moharidevi School
+MAHARASHTRA|AKOLA|Akola|Mohata Mill chawl
+MAHARASHTRA|AKOLA|Akola|Mohd ali road
+MAHARASHTRA|AKOLA|Akola|Mohite plot
+MAHARASHTRA|AKOLA|Akola|Mominpura
+MAHARASHTRA|AKOLA|Akola|Moreshwar colony
+MAHARASHTRA|AKOLA|Akola|Morghat
+MAHARASHTRA|AKOLA|Akola|morna Colony
+MAHARASHTRA|AKOLA|Akola|Moruti Nagar
+MAHARASHTRA|AKOLA|Akola|Mount Carmel
+MAHARASHTRA|AKOLA|Akola|Mukta Plaza Gourkshan Road
+MAHARASHTRA|AKOLA|Akola|Mukund nagar
+MAHARASHTRA|AKOLA|Akola|Mullani Chouk
+MAHARASHTRA|AKOLA|Akola|Murtizapur Road
+MAHARASHTRA|AKOLA|Akola|N.P. School No. 17
+MAHARASHTRA|AKOLA|Akola|Nagar parishad colony
+MAHARASHTRA|AKOLA|Akola|Nage layout
+MAHARASHTRA|AKOLA|Akola|Naigaon Area
+MAHARASHTRA|AKOLA|Akola|Naik Chok
+MAHARASHTRA|AKOLA|Akola|Naikwadipura
+MAHARASHTRA|AKOLA|Akola|Nalanda nagar
+MAHARASHTRA|AKOLA|Akola|Nanak nagar
+MAHARASHTRA|AKOLA|Akola|Nandane Plot
+MAHARASHTRA|AKOLA|Akola|Natakwada
+MAHARASHTRA|AKOLA|Akola|Nav nimrman society
+MAHARASHTRA|AKOLA|Akola|NCC office
+MAHARASHTRA|AKOLA|Akola|Neharu park
+MAHARASHTRA|AKOLA|Akola|New bhim nagar
+MAHARASHTRA|AKOLA|Akola|New Bus Stand
+MAHARASHTRA|AKOLA|Akola|New Cloth Market
+MAHARASHTRA|AKOLA|Akola|New era highschool
+MAHARASHTRA|AKOLA|Akola|New Gurudeo Nagar
+MAHARASHTRA|AKOLA|Akola|New Income tax office murtizapur road
+MAHARASHTRA|AKOLA|Akola|New Radhakisan Plot
+MAHARASHTRA|AKOLA|Akola|New Tapdiya Nagar
+MAHARASHTRA|AKOLA|Akola|Nimwadi
+MAHARASHTRA|AKOLA|Akola|Nishant Tower Gandhi Road
+MAHARASHTRA|AKOLA|Akola|Nitanad nagar
+MAHARASHTRA|AKOLA|Akola|Niwara colony no-1,3,4,5,6
+MAHARASHTRA|AKOLA|Akola|Noel Convent
+MAHARASHTRA|AKOLA|Akola|Noor Plot
+MAHARASHTRA|AKOLA|Akola|Noori Plot Dabki Road
+MAHARASHTRA|AKOLA|Akola|Old bhagawat plot
+MAHARASHTRA|AKOLA|Akola|Om Mangal Karyalay
+MAHARASHTRA|AKOLA|Akola|Orasad Colony Jatharpeth
+MAHARASHTRA|AKOLA|Akola|P. K. V. Campous P K V
+MAHARASHTRA|AKOLA|Akola|Pakki Kholi
+MAHARASHTRA|AKOLA|Akola|Panchashil Nagar
+MAHARASHTRA|AKOLA|Akola|Panchayat Samiti
+MAHARASHTRA|AKOLA|Akola|Panchshil nagar
+MAHARASHTRA|AKOLA|Akola|Pardeshi pura
+MAHARASHTRA|AKOLA|Akola|Pariwar colony No-1,2,3,4,5,
+MAHARASHTRA|AKOLA|Akola|Parvati Nagar Dabki Road
+MAHARASHTRA|AKOLA|Akola|Patil Dudh dairy Mangrulpir Road
+MAHARASHTRA|AKOLA|Akola|Patil market rajeswar colony
+MAHARASHTRA|AKOLA|Akola|Patrkar Colony
+MAHARASHTRA|AKOLA|Akola|Pola Chwok
+MAHARASHTRA|AKOLA|Akola|Pola Chwok
+MAHARASHTRA|AKOLA|Akola|Police quarters Nimwadi
+MAHARASHTRA|AKOLA|Akola|Police vasahat Dabki Road
+MAHARASHTRA|AKOLA|Akola|Potdar Driving School
+MAHARASHTRA|AKOLA|Akola|Prabhat kids
+MAHARASHTRA|AKOLA|Akola|Pragati Gas Godwn
+MAHARASHTRA|AKOLA|Akola|Pramod nagar
+MAHARASHTRA|AKOLA|Akola|Prasad Society
+MAHARASHTRA|AKOLA|Akola|Priya Tower Dabki Road
+MAHARASHTRA|AKOLA|Akola|Profesar Colony
+MAHARASHTRA|AKOLA|Akola|Professors colony
+MAHARASHTRA|AKOLA|Akola|Pundlik Baba Mandir
+MAHARASHTRA|AKOLA|Akola|Purpidit Colony
+MAHARASHTRA|AKOLA|Akola|Purva Tower Birla road
+MAHARASHTRA|AKOLA|Akola|PWD
+MAHARASHTRA|AKOLA|Akola|PWD Compound
+MAHARASHTRA|AKOLA|Akola|PWD Quarters
+MAHARASHTRA|AKOLA|Akola|R.P.T.S. Gadangki
+MAHARASHTRA|AKOLA|Akola|Rachana colony
+MAHARASHTRA|AKOLA|Akola|Radha krishna Taklies
+MAHARASHTRA|AKOLA|Akola|Radhe Nagar
+MAHARASHTRA|AKOLA|Akola|Raghunandan Society
+MAHARASHTRA|AKOLA|Akola|Raghuwanshi Mangal Karyalay
+MAHARASHTRA|AKOLA|Akola|Rahni Nagar
+MAHARASHTRA|AKOLA|Akola|Rahul nagar
+MAHARASHTRA|AKOLA|Akola|Rahul nagar Jatharpeth
+MAHARASHTRA|AKOLA|Akola|Rahulnagar shivni
+MAHARASHTRA|AKOLA|Akola|Railway colony Station Road
+MAHARASHTRA|AKOLA|Akola|Railway station
+MAHARASHTRA|AKOLA|Akola|Rajendra Prasad Nagar Dabki Road
+MAHARASHTRA|AKOLA|Akola|Rajeshwar Colvent Dabki Road
+MAHARASHTRA|AKOLA|Akola|Rajeshwar Mandir
+MAHARASHTRA|AKOLA|Akola|Rajiv Gandhi nagar
+MAHARASHTRA|AKOLA|Akola|Rajpatpura
+MAHARASHTRA|AKOLA|Akola|Raju Nagr
+MAHARASHTRA|AKOLA|Akola|Ram nagar Jatharpeth
+MAHARASHTRA|AKOLA|Akola|Ram Nagar Tilak road
+MAHARASHTRA|AKOLA|Akola|Ramabai Ambedkar Nagar
+MAHARASHTRA|AKOLA|Akola|Ramdaspeth
+MAHARASHTRA|AKOLA|Akola|Ramdaspeth police station
+MAHARASHTRA|AKOLA|Akola|Ramdeobaba Society
+MAHARASHTRA|AKOLA|Akola|Ramesh Nagar
+MAHARASHTRA|AKOLA|Akola|Rami Heritej RTO Road
+MAHARASHTRA|AKOLA|Akola|Ramlata buisness centre murtizapur road
+MAHARASHTRA|AKOLA|Akola|Ramnagar
+MAHARASHTRA|AKOLA|Akola|Ramnagar Rautwadi
+MAHARASHTRA|AKOLA|Akola|Ramnagar umri road
+MAHARASHTRA|AKOLA|Akola|Rampir Nagar
+MAHARASHTRA|AKOLA|Akola|Rani Sati Mandir
+MAHARASHTRA|AKOLA|Akola|Ranpise Nagar
+MAHARASHTRA|AKOLA|Akola|Ranpise nagar post office
+MAHARASHTRA|AKOLA|Akola|Rao Tailer market
+MAHARASHTRA|AKOLA|Akola|Ratanlal Plot
+MAHARASHTRA|AKOLA|Akola|Ratanlal Plot
+MAHARASHTRA|AKOLA|Akola|Rathi Market
+MAHARASHTRA|AKOLA|Akola|Rautwadi
+MAHARASHTRA|AKOLA|Akola|Rautwadi Chowk
+MAHARASHTRA|AKOLA|Akola|Ravi nagar
+MAHARASHTRA|AKOLA|Akola|Rayali Jin
+MAHARASHTRA|AKOLA|Akola|Raymond Showroom
+MAHARASHTRA|AKOLA|Akola|red cross society
+MAHARASHTRA|AKOLA|Akola|Registrar PKV
+MAHARASHTRA|AKOLA|Akola|Renuka Nagar Dabki Road
+MAHARASHTRA|AKOLA|Akola|Ridhi sidhi nagar
+MAHARASHTRA|AKOLA|Akola|Riginal work shop
+MAHARASHTRA|AKOLA|Akola|RLT College Civil line
+MAHARASHTRA|AKOLA|Akola|RTO office RTO Road
+MAHARASHTRA|AKOLA|Akola|S.A. College Civil line
+MAHARASHTRA|AKOLA|Akola|S.T. Colony
+MAHARASHTRA|AKOLA|Akola|Sabriya Nagar
+MAHARASHTRA|AKOLA|Akola|Sahakar nagar
+MAHARASHTRA|AKOLA|Akola|Sahkar nagar
+MAHARASHTRA|AKOLA|Akola|Sai Nagar Panchamukhi chowk Dabki Road
+MAHARASHTRA|AKOLA|Akola|Sailani Nagar
+MAHARASHTRA|AKOLA|Akola|Sale tax office
+MAHARASHTRA|AKOLA|Akola|Samadhi area
+MAHARASHTRA|AKOLA|Akola|Samarth Nagar Dabki Road
+MAHARASHTRA|AKOLA|Akola|Samata vidyalaya Wankhede Nagar Dabki Road
+MAHARASHTRA|AKOLA|Akola|Samta nagar
+MAHARASHTRA|AKOLA|Akola|Samta Nagar Plot
+MAHARASHTRA|AKOLA|Akola|Samyak Sambhodhani Vachnaylay Ranpise Nagar
+MAHARASHTRA|AKOLA|Akola|Sana colony
+MAHARASHTRA|AKOLA|Akola|Sandhay colony
+MAHARASHTRA|AKOLA|Akola|Sangani colony
+MAHARASHTRA|AKOLA|Akola|Sanghaviwadi
+MAHARASHTRA|AKOLA|Akola|Sanotsh nagar no-1,2
+MAHARASHTRA|AKOLA|Akola|Sant nagar Hingna fata
+MAHARASHTRA|AKOLA|Akola|sant tukaram hospital chowk
+MAHARASHTRA|AKOLA|Akola|Santaji Nagar
+MAHARASHTRA|AKOLA|Akola|Sarafa Bazar
+MAHARASHTRA|AKOLA|Akola|Sarswati Kanya shala
+MAHARASHTRA|AKOLA|Akola|Sarswati nagar
+MAHARASHTRA|AKOLA|Akola|Sathe compound
+MAHARASHTRA|AKOLA|Akola|Sati market
+MAHARASHTRA|AKOLA|Akola|Savitribai Fule School Gokul Colony
+MAHARASHTRA|AKOLA|Akola|Sawantwadi
+MAHARASHTRA|AKOLA|Akola|sawatram baicha Chal
+MAHARASHTRA|AKOLA|Akola|SBI Colony Rachna colony
+MAHARASHTRA|AKOLA|Akola|SBI Colony No-5 umari
+MAHARASHTRA|AKOLA|Akola|SBI main Br Tower Cowk
+MAHARASHTRA|AKOLA|Akola|SBI Try. Br. Shastri nagar
+MAHARASHTRA|AKOLA|Akola|Shahanawar Pura
+MAHARASHTRA|AKOLA|Akola|Shakkar Bawadi
+MAHARASHTRA|AKOLA|Akola|Shani Mandir
+MAHARASHTRA|AKOLA|Akola|Shankar Nagar
+MAHARASHTRA|AKOLA|Akola|Shankarlal Khandelwal Collage
+MAHARASHTRA|AKOLA|Akola|Shankarnagar Jatharpeth
+MAHARASHTRA|AKOLA|Akola|Shanti Nagar Dabki Road
+MAHARASHTRA|AKOLA|Akola|Shantta Nagar
+MAHARASHTRA|AKOLA|Akola|Sharda gas godwn Dabki Road
+MAHARASHTRA|AKOLA|Akola|Sharda layout
+MAHARASHTRA|AKOLA|Akola|Shardah nagar
+MAHARASHTRA|AKOLA|Akola|Sharif Nagar
+MAHARASHTRA|AKOLA|Akola|Shastri Nagar
+MAHARASHTRA|AKOLA|Akola|Shastri Stadium Station Road
+MAHARASHTRA|AKOLA|Akola|Shewalkar wadi
+MAHARASHTRA|AKOLA|Akola|Shidarth Nagar
+MAHARASHTRA|AKOLA|Akola|Shikshak Colony
+MAHARASHTRA|AKOLA|Akola|Shilpkar Colony
+MAHARASHTRA|AKOLA|Akola|Shio Nagar
+MAHARASHTRA|AKOLA|Akola|Shivaji HighSchool Hariharpeth
+MAHARASHTRA|AKOLA|Akola|Shivaji nagar
+MAHARASHTRA|AKOLA|Akola|shivani khadan shivni
+MAHARASHTRA|AKOLA|Akola|Shivcharan Peth
+MAHARASHTRA|AKOLA|Akola|Shravgi lowns Murtizapur road
+MAHARASHTRA|AKOLA|Akola|Shrawgi Plot
+MAHARASHTRA|AKOLA|Akola|Shrihari nagar
+MAHARASHTRA|AKOLA|Akola|Shriram nagar
+MAHARASHTRA|AKOLA|Akola|Shriram Sankul
+MAHARASHTRA|AKOLA|Akola|Shriram Tower
+MAHARASHTRA|AKOLA|Akola|Shrivastav Chowk Dabki Road
+MAHARASHTRA|AKOLA|Akola|Siddharth Nagar Plot
+MAHARASHTRA|AKOLA|Akola|Siddharth Wadi Plot
+MAHARASHTRA|AKOLA|Akola|Siddhivinayak Mangal Karyalay
+MAHARASHTRA|AKOLA|Akola|Sihdartha Chowk
+MAHARASHTRA|AKOLA|Akola|Sindhi Camp
+MAHARASHTRA|AKOLA|Akola|Sindhi Camp
+MAHARASHTRA|AKOLA|Akola|Sipinath Nagar
+MAHARASHTRA|AKOLA|Akola|Sita Nagar Dabki Road
+MAHARASHTRA|AKOLA|Akola|Sitala mandir
+MAHARASHTRA|AKOLA|Akola|Siv Sena Nagar
+MAHARASHTRA|AKOLA|Akola|Sonttake Plots
+MAHARASHTRA|AKOLA|Akola|Sr Supdt of Post office Civil line
+MAHARASHTRA|AKOLA|Akola|Subhash road
+MAHARASHTRA|AKOLA|Akola|Sudhir Colony
+MAHARASHTRA|AKOLA|Akola|Sufal krupa colony
+MAHARASHTRA|AKOLA|Akola|Suresh Bekari
+MAHARASHTRA|AKOLA|Akola|Swavlambi nagar
+MAHARASHTRA|AKOLA|Akola|Tahsil Office Tahsil Road
+MAHARASHTRA|AKOLA|Akola|Tapdiya nagar
+MAHARASHTRA|AKOLA|Akola|Tar Fail ( OLD)
+MAHARASHTRA|AKOLA|Akola|Tathod Mangal Karyalay
+MAHARASHTRA|AKOLA|Akola|Telecom colony Ring road
+MAHARASHTRA|AKOLA|Akola|Telephone Colony
+MAHARASHTRA|AKOLA|Akola|Telephone colony
+MAHARASHTRA|AKOLA|Akola|Telephone colony
+MAHARASHTRA|AKOLA|Akola|Telipura
+MAHARASHTRA|AKOLA|Akola|Telkar marg Ramdhan plot
+MAHARASHTRA|AKOLA|Akola|Tilak Park Ramdaspeth
+MAHARASHTRA|AKOLA|Akola|Tilak road
+MAHARASHTRA|AKOLA|Akola|Tirupati Market
+MAHARASHTRA|AKOLA|Akola|Toshiniwal layout
+MAHARASHTRA|AKOLA|Akola|Toshiniwal Layout
+MAHARASHTRA|AKOLA|Akola|Tower Chouk
+MAHARASHTRA|AKOLA|Akola|TTN college Keshav nagar
+MAHARASHTRA|AKOLA|Akola|Uday colony
+MAHARASHTRA|AKOLA|Akola|Uday Nagar Dabki Road
+MAHARASHTRA|AKOLA|Akola|Umari Naka
+MAHARASHTRA|AKOLA|Akola|Ustavmangal karyalay
+MAHARASHTRA|AKOLA|Akola|Uttara colony
+MAHARASHTRA|AKOLA|Akola|V H B colony
+MAHARASHTRA|AKOLA|Akola|Vajifdar Petrol pump
+MAHARASHTRA|AKOLA|Akola|Vakarewadi
+MAHARASHTRA|AKOLA|Akola|Vardhman Marg
+MAHARASHTRA|AKOLA|Akola|Varhad City Scan Sashtri nagar
+MAHARASHTRA|AKOLA|Akola|Varsha colony
+MAHARASHTRA|AKOLA|Akola|Vasant Takies
+MAHARASHTRA|AKOLA|Akola|VHB Colony
+MAHARASHTRA|AKOLA|Akola|VHB colony Gaurkshan road
+MAHARASHTRA|AKOLA|Akola|Vice Chanceller PKV
+MAHARASHTRA|AKOLA|Akola|Vidhut Bhawan Ratanlal plot road
+MAHARASHTRA|AKOLA|Akola|Vijay Nagar Plot
+MAHARASHTRA|AKOLA|Akola|Vijay-vidhut colony
+MAHARASHTRA|AKOLA|Akola|Vir Sawarkar Chowk Dabki Road
+MAHARASHTRA|AKOLA|Akola|Vishalnagar shivni
+MAHARASHTRA|AKOLA|Akola|Vital mandir Sawantwadi
+MAHARASHTRA|AKOLA|Akola|Vitthal Mandir Kalamaruit road
+MAHARASHTRA|AKOLA|Akola|Vrundawan nagar
+MAHARASHTRA|AKOLA|Akola|Vrundawan nagar jatharpeth
+MAHARASHTRA|AKOLA|Akola|Wadhwani nagar
+MAHARASHTRA|AKOLA|Akola|Walmik Nagar
+MAHARASHTRA|AKOLA|Akola|Wankhede Nagar
+MAHARASHTRA|AKOLA|Akola|Washim By pass
+MAHARASHTRA|AKOLA|Akola|Washim road
+MAHARASHTRA|AKOLA|Akola|Washim Stand
+MAHARASHTRA|AKOLA|Akola|Yamuna tarang complex
+MAHARASHTRA|AKOLA|Akola|Yashawant wadi
+MAHARASHTRA|AKOLA|Akola|Yashoda nagar
+MAHARASHTRA|AKOLA|Akola|Yashwanth Nagar
+MAHARASHTRA|AKOLA|Akola|Yogayog Chwok
+MAHARASHTRA|AKOLA|Akola|Z. P. School P K V
+MAHARASHTRA|AKOLA|Akola|Z.P. Colony
+MAHARASHTRA|AKOLA|Akola|Z.P. Twon School Hariharpeth
+MAHARASHTRA|AKOLA|Akola|Zilha Parishad
+MAHARASHTRA|AKOLA|Akola|Zulelal Dharmshala
+MAHARASHTRA|AKOLA|Akola|Zulpakar Nagar
+MAHARASHTRA|AKOLA|Akot|Single Delivery Post office
+MAHARASHTRA|AKOLA|Alegaon|Single Delivery Post office
+MAHARASHTRA|AKOLA|Barshi Takali|Single Delivery Post office
+MAHARASHTRA|AKOLA|Borgaon|Single Delivery Post office
+MAHARASHTRA|AKOLA|Dahihanda|Single Delivery Post office
+MAHARASHTRA|AKOLA|Hiwarkhed|Single Delivery Post office
+MAHARASHTRA|AKOLA|Januna|Single Delivery Post office
+MAHARASHTRA|AKOLA|Mana|Single Delivery Post office
+MAHARASHTRA|AKOLA|Mundgaon|Single Delivery Post office
+MAHARASHTRA|AKOLA|Nimba|Single Delivery Post office
+MAHARASHTRA|AKOLA|Patur|Single Delivery Post office
+MAHARASHTRA|AKOLA|Ridhora|Single Delivery Post office
+MAHARASHTRA|AKOLA|Telhara|Single Delivery Post office
+MAHARASHTRA|AKOLA|Vyalla|Single Delivery Post office
+MAHARASHTRA|AKOLA|Wadegaon|Single Delivery Post office
